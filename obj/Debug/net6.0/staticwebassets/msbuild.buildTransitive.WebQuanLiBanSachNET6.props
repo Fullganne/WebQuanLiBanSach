@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WebQuanLiBanSachNET6.props" />
+</Project>
